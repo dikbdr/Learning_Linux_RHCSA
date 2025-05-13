@@ -1,7 +1,3 @@
-## 6. More Practice Questions and Solutions
-## 4. Additional Important Topics for RHCSA Exam
-## 4. Additional Important Topics for RHCSA Exam
-
 ## 1. Understanding the RHCSA Exam Objectives
 
 The RHCSA (Red Hat Certified System Administrator) exam tests your ability to perform core system administration tasks on Red Hat Enterprise Linux. Key objectives include:
@@ -128,6 +124,7 @@ The RHCSA (Red Hat Certified System Administrator) exam tests your ability to pe
 - [RHCSA Exam Objectives](https://www.redhat.com/en/services/training/ex200-red-hat-certified-system-administrator-rhcsa-exam)
 - [Red Hat System Administration Guide](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html-single/configuring_basic_system_settings/index)
 
+## 4. Additional Important Topics for RHCSA Exam
 
 - **SELinux Management:**  
     - View and change SELinux modes  
@@ -198,6 +195,8 @@ The RHCSA (Red Hat Certified System Administrator) exam tests your ability to pe
 > ![SELinux Modes](https://access.redhat.com/sites/default/files/attachments/selinux-modes.png)
 
 ---
+
+## 5. Additional Important Topics for RHCSA Exam
 
 ### SELinux Management
 
@@ -323,7 +322,7 @@ The RHCSA (Red Hat Certified System Administrator) exam tests your ability to pe
 
 ---
 
-## 5. Additional Practice Questions and Solutions
+## 6. Additional Practice Questions and Solutions
 
 ### Question 1: Create a New Logical Volume
 
@@ -626,7 +625,7 @@ ss -tuln
 
 > ![Network Troubleshooting Tools](https://access.redhat.com/sites/default/files/styles/large/public/network-tools.png)
 
-## 6. More Practice Questions and Solutions
+## 7. More Practice Questions and Solutions
 
 
 Below are 30 practice questions with solutions to help you prepare for the RHCSA exam. These cover a wide range of topics relevant to the exam objectives.
