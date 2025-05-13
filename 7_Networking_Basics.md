@@ -1,5 +1,4 @@
 
-```markdown
 ## Networking Basics
 
 ### Understanding IP Addressing and Subnetting
