@@ -1,4 +1,4 @@
-```markdown
+
 ## Package Management
 
 ### Understanding Package Managers (YUM, DNF, RPM)
