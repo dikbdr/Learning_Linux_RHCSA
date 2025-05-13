@@ -12,11 +12,11 @@ Managing files is a fundamental skill in Linux. You can create, view, and edit f
     ```  
 - **Using `echo`**: Create a file with content:  
     ```bash
-    echo "Hello, World!" > example.txt
+    echo "Hello, World!" > example1.txt
     ```  
 - **Using `cat`**: Create a file interactively:  
     ```bash
-    cat > example.txt
+    cat > example2.txt
     Hello, World!
     Ctrl+D
     ```  
