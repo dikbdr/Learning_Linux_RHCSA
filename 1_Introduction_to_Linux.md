@@ -1,4 +1,4 @@
-```markdown
+
 # Introduction to Linux
 
 Linux is a powerful, open-source operating system that is widely used in servers, desktops, and embedded systems. Below, we elaborate on key points about Linux with examples and diagrams to enhance understanding.
