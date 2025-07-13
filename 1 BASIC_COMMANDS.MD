@@ -1,4 +1,4 @@
-# Teacher's Guide: Linux Basic Commands
+# Linux Basic Commands
 
 This guide introduces essential Linux commands, their manual (man) page references, and practical examples.
 
